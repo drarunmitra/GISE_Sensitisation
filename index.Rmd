@@ -88,8 +88,9 @@ class: slide-with-logo, middle
 ### The institute has the status of a university and offers excellent research and training facilities. 
 
 ---
-class:  columns-3, middle
+class:  middle
 
+.pull-left-1[
 ### .bold[One of the unique institutions in the country.]
 ----
 ### .bold[It has three wings]
@@ -102,26 +103,13 @@ class:  columns-3, middle
 + Post Doctoral Fellowships
 <br/>
 
+]
 
-![](images/SSH.jpg) 
-Super Speciality Hospital  
+.pull-right-2[
 
-<br/>
-----
+<img src="images/three_institutes_sctimst.jpg" align="left" width="95%"/>
 
-
-![](images/AMC.jpg) 
-Achutha Menon Centre  
-
-<br/>
-<br/>
-<br/>
-
-
-
-![](images/BMT.jpg) 
-Bio-Medical Technology Wing
-
+]
 
 ---
 
@@ -799,16 +787,23 @@ class: middle
 ]]
 
 ---
-# `Edit-a-thon`
 
 .pull-left-1[
+# `Edit-a-thon`
+
 - Regional Meeting Point
 - CoP Pilot 
 - Open Educational Resources (OER)
+
 .center[
+
 <img src="images/UNOOSA.png" align="center" width="70%"/>
-] <br/>
+
+<br/>
+
 <img src="images/koblenz.jpg" align="center" width="90%"/>
+
+]
 ]
 
 .pull-right-2[
@@ -911,8 +906,14 @@ class: middle
 
 # `RIntro` Workshop Series
 <br/>
+.pull-left-2[
 ### Three Cohorts: 2 in 2021, 1 in 2022
-### Over 50 Health Professionals from across the country
+### Over 50 Health Professionals across the country
+]
+
+.pull-right-1[
+<img src="images/RIntro2022_hex.png" align="center" width="90%"/>
+]
 
 .pull-left-2[
 - World Health Organization, India Office
@@ -920,13 +921,11 @@ class: middle
 - National Institute of Epidemiology, Chennai
 - Armed Forces Medical College, Pune
 - All India Institute of Medical Sciences - New Delhi, Bhopal, Raipur, Jhodpur
+]
+
 
 ### `https://amchss.github.io/RIntro2022/`
-]
 
-.pull-right-1[
-<img src="images/RIntro2022_hex.png" align="center" width="90%"/>
-]
 
 
 
