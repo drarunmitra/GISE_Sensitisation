@@ -1,24 +1,9 @@
-# Sydney xaringan
+# GISE Sensitisation Talk
 
-University of Sydney theme for xaringan (remark.js)
+These are the slides for the sensitisation meeting that has been conducted on 22-07-2022 at AMCHSS Seminar Hall. 
 
-Example and guide here: http://garthtarr.github.io/sydney_xaringan
+The attendees were representatives from IIT-Bombay (Dr. Sumit Sen and Dr. Venkatapathy), Dr. Ajit N Babu from the Center for Advancement of Global Health. 
 
-To get started you will likely need:
+Attendees from AMCHSS were Dr Biju Soman, Dr. Arun Mitra, and staff and students.
 
-```r
-install.packages('xaringan')
-remotes::install_github("mitchelloharawild/icons")
-install.packages("RefManageR")
-install.packages("DT")
-install.packages("tidyverse")
-install.packages("googleVis")
-```
-
-To run the example, you may also need to follow the instructions [here](https://github.com/mitchelloharawild/icons) to download the set of fontawesome icons as part of the **icons** package setup, i.e. if you haven't already, you'll need to run
-
-```r
-icons::download_fontawesome()
-```
-
-For further customisation you might consider the [xaringanExtra](https://github.com/gadenbuie/xaringanExtra) package.
+The program was inagurated by Dr. Sankara Sarma, Professor and Head, AMCHSS. 
